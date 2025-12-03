@@ -1,0 +1,7 @@
+{
+  module: {
+    name: 'reactNativeMMKV',
+    type: 'har',
+    deviceTypes: ['default'],
+  },
+}

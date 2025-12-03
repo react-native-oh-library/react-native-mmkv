@@ -1,3 +1,6 @@
 [submodule "package/MMKV"]
 	path = package/MMKV
 	url = https://github.com/Tencent/MMKV
+[submodule "package/harmony/reactNativeMMKV/src/main/cpp/MMKV"]
+	path = package/harmony/reactNativeMMKV/src/main/cpp/MMKV
+	url = https://github.com/Tencent/MMKV

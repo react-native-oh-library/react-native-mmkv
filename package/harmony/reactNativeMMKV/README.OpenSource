@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-mmkv",
+        "License": "MIT License",
+        "License File": "https://github.com/mrousavy/react-native-mmkv/blob/v3.3.0/LICENSE",
+        "Version Number": "v3.3.0",
+        "Owner" : "react-native-mmkv"
+        "Upstream URL": "https://github.com/mrousavy/react-native-mmkv",
+        "Description": " The fastest key/value storage for React Native. ~30x faster than AsyncStorage!"
+    }
+]
